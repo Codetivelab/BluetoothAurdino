@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bluetooth Aurdino</string>
+    <string name="Scan">Scan</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="app_id_admob">ca-app-pub-1354650831354638~5408061310</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_pattern__lock_set_pattern">Pattern_Lock_setPattern</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

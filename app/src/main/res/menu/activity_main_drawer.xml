@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/rate_this"
+            android:icon="@drawable/like"
+            android:title="Rate this app" />
+        <item
+            android:id="@+id/more_apps"
+            android:icon="@drawable/like"
+            android:title="More Apps"/>
+        <item
+            android:id="@+id/like_us"
+            android:icon="@drawable/like_bbn"
+            android:title="Like us"/>
+    </group>
+
+    <item android:title="For Source Code">
+        <menu>
+            <item
+                android:title="Contact Developer"
+                android:id="@+id/dev_ref"
+                />
+        </menu>
+    </item>
+    <item android:title="About">
+        <menu>
+            <item
+                android:id="@+id/privacy_policy"
+                android:title="Privacy Policy"/>
+            <item
+                android:id="@+id/version"
+                android:title="App version 1.0" />
+
+        </menu>
+
+    </item>
+</menu>
