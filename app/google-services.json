@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "747746101405",
+    "firebase_url": "https://aurdino-bluetooth.firebaseio.com",
+    "project_id": "aurdino-bluetooth",
+    "storage_bucket": "aurdino-bluetooth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747746101405:android:b2ad37429dffdcf6",
+        "android_client_info": {
+          "package_name": "codetivelab.bluetoothaurdino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747746101405-63v6tjhvacbrt0nf3u9ce0daq8o0rdhr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "codetivelab.bluetoothaurdino",
+            "certificate_hash": "e5b75d260653c145cdf68d9b1c4ba56de3f718d0"
+          }
+        },
+        {
+          "client_id": "747746101405-t8m9m6ri1pu2nh71jibuong6uuepj0cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBihzWJlDj9QFyspa1V24hy4jBMc4o5wxM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747746101405-t8m9m6ri1pu2nh71jibuong6uuepj0cj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
