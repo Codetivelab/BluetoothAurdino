@@ -103,9 +103,9 @@ public class MainActivity extends AppCompatActivity
         get_switch_ids();
         Setting_checked_state();
         MobileAds.initialize(this,
-                "ca-app-pub-2404528101968668~4674182347");
+                "");
         mInterstitialAd = new InterstitialAd(this);
-        mInterstitialAd.setAdUnitId("ca-app-pub-2404528101968668/9854302934");
+        mInterstitialAd.setAdUnitId("");
         mInterstitialAd.loadAd(new AdRequest.Builder().build());
         mAdView = (AdView) findViewById(R.id.adView);
 
